@@ -11,9 +11,13 @@
 
 **Welcome page - image**: pick ``oggm-v1.5.3``
 
-Copy the oggm tutorial notebooks into the classroom: [link](https://classroom.oggm.org/hub/user-redirect/git-pull?repo=https://github.com/OGGM/tutorials&urlpath=lab/tree/tutorials/./notebooks/welcome.ipynb&branch=stable)
+- Copy the oggm tutorial notebooks into the classroom: [link](https://classroom.oggm.org/hub/user-redirect/git-pull?repo=https://github.com/OGGM/tutorials&urlpath=lab/tree/tutorials/./notebooks/welcome.ipynb&branch=stable) 
 
-Copy the oggm-edu educational notebooks into the classroom: [link](https://classroom.oggm.org/hub/user-redirect/git-pull?repo=https://github.com/OGGM/oggm-edu-notebooks&urlpath=lab/tree/oggm-edu-notebooks/./welcome.ipynb&branch=master)
+(if you want: [website](https://oggm.org/tutorials) to look at the executed notbooks)
+
+- Copy the oggm-edu educational notebooks into the classroom: [link](https://classroom.oggm.org/hub/user-redirect/git-pull?repo=https://github.com/OGGM/oggm-edu-notebooks&urlpath=lab/tree/oggm-edu-notebooks/./welcome.ipynb&branch=master) 
+
+(if you want: [website](https://oggm.org/oggm-edu-notebooks) to look at the executed notbooks)
 
 ### Cospipy tutorials
 
