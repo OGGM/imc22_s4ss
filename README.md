@@ -19,6 +19,8 @@
 
 (if you want: [website](https://oggm.org/oggm-edu-notebooks) to look at the executed notbooks)
 
+En Español! https://oggm.org/oggm-edu-notebooks-es/bienvenidos.html 
+
 ### Cospipy tutorials
 
 
